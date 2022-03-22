@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TEST1 - (JEMIMA)</string>
+
+    <string-array name="municipality">
+        <item>Cagayan de Oro (Capital)</item>
+        <item>El Salvador</item>
+        <item>Opol</item>
+        <item>Gingoog</item>
+        <item>Tagoloan</item>
+        <item>Claveria</item>
+        <item>Laguindingan</item>
+        <item>Binuangan</item>
+        <item>Kinoguitan</item>
+        <item>Gitagum</item>
+        <item>Alubijid</item>
+        <item>Balingoan</item>
+        <item>Balingasag</item>
+        <item>Talisay</item>
+        <item>Manticao</item>
+        <item>Magsaysay</item>
+        <item>Lugait</item>
+        <item>Naawan</item>
+        <item>Salay</item>
+        <item>Libertad</item>
+        <item>Medina</item>
+        <item>Villanueva</item>
+        <item>Manolo</item>
+        <item>Malitbog</item>
+        <item>Impasug-ong</item>
+
+
+    </string-array>
+</resources>
